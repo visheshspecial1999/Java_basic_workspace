@@ -43,7 +43,7 @@ Here I am uploading my class program's code which is essential to full fil the r
   2. For Java Advance
      a. Eclipse J2EE zip
      b. MySQL Workbench + MySQL Cell + MySQL Community Installer + Apache-tomcat server + MySQL Connector + loombook
-     c. Spring-tool-suite zip
+     c. Spring-tool-suite zip + Postman API
  3. For Web Development
      a. Vs Code
      b. Mozila Developer edition 
