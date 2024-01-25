@@ -33,3 +33,17 @@ Here I am uploading my class program's code which is essential to full fil the r
  16.java_special_programs
  17.java_patterns
  # completed....................................................................................
+
+ # Tools for Java Developers
+  1. For Java Basic
+       a. Eclipse IDE for Java Developers
+       b. Note Pad
+       c. JRE
+       d. Oracle 10g DBMS
+  2. For Java Advance
+     a. Eclipse J2EE zip
+     b. MySQL Workbench + MySQL Cell + MySQL Community Installer + Apache-tomcat server + MySQL Connector + loombook
+     c. Spring-tool-suite zip
+ 3. For Web Development
+     a. Vs Code
+     b. Mozila Developer edition 
